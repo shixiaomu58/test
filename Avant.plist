@@ -10,36 +10,37 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
-                    <string>newURLForReplace</string>
+                    <key>url</key>
+                    //这个地方写ipa地址
+                    <string>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
-                    <true/>
-                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
-                    <string>https://www.cheok.com/carseller/icons/Icon@2x.png</string>
+                    <false/>
+                    <key>url</key>
+                    <string></string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>needs-shine</key>
-                    <true/>
-                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
-                    <string>https://www.cheok.com/carseller/icons/Icon.png</string>
+                    <false/>
+                    <key>url</key>
+                    <string>安装过程显示图片</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ak.AKCar</string>
+                <string>com.xianhenet.hunpopo</string>
                 <key>bundle-version</key>
-                <string>2.0.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>备胎信用</string>
+                <string>packName</string>
             </dict>
         </dict>
     </array>
