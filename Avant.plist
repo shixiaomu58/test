@@ -10,37 +10,36 @@
                 <dict>
                     <key>kind</key>
                     <string>software-package</string>
-                    <key>url</key>
-                    //这个地方写ipa地址
-                    <string>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</string>
+                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
+                    <string>newURLForReplace</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string></string>
+                    <true/>
+                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
+                    <string>https://www.cheok.com/carseller/icons/Icon@2x.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>安装过程显示图片</string>
+                    <true/>
+                    <key>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</key>
+                    <string>https://www.cheok.com/carseller/icons/Icon.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xianhenet.hunpopo</string>
+                <string>com.ak.AKCar</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>2.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>packName</string>
+                <string>澶囪儙淇＄敤</string>
             </dict>
         </dict>
     </array>
