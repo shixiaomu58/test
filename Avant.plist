@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</string>
+                    <string>http://192.168.129.190:8080/Avant.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
