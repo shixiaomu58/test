@@ -25,13 +25,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>BT.Avanker</string>
+                <string>BT.Avant</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>云钱银行端</string>
+                <string>云钱机构端</string>
             </dict>
         </dict>
     </array>
