@@ -11,36 +11,27 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    //这个地方写ipa地址
                     <string>https://github.com/shixiaomu58/test/raw/master/Avant.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>needs-shine</key>
-                    <false/>
+                    <true/>
                     <key>url</key>
-                    <string></string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>安装过程显示图片</string>
+                    <string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xianhenet.hunpopo</string>
+                <string>BT.Avanker</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>packName</string>
+                <string>云钱银行端</string>
             </dict>
         </dict>
     </array>
