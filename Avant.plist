@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.131.72::8080/Avant.ipa</string>
+                    <string>http://192.168.100.158:8080/usedcar4s(2).ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
